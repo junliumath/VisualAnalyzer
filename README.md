@@ -4,7 +4,9 @@ VisualAnalyzer is a light assistant tool for image processing researchers. Besid
 The images to be analyzed are assumed to:
 1) be of equal size (e.g., 256x256, 1024x968, ...), 
 2) have identical filename as of other directories. 
+
  Steps to use this program: 
+ 
 1) Select several directories in which contains some images to analyze. 
 2) Select a ground truth (i.e., a directory of ground-truth images) directory.
 3) Click 'Analyze' button. When you click 'Next' button, the best candidate is saved in 'best' sub-folder, logging in 'best_log.txt' file.
