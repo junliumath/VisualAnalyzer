@@ -11,6 +11,7 @@ The images to be analyzed are assumed to:
 4) You can select interesting regions and the zoomed-in patches will be shown continuously. Whenever pressing 'backspace' key, the previous state is reverted.
 5) It is also possible to save the current patches and those containers with/without highlighted rectangle, by right-clicking in any image region and go through the 'save as' procedure.
 6) Customizing the highlighting color and line-width is available by clicking setting.
+7) the file name of the saved cropped image is with bottom-left and up-right coordinates.
 
 # Further exploration:
 If you are latex user and need to display the zoom-in part in the corresponding image, we strongly recommend you to use ZoomInPortion tookkit. It is also available in github.
