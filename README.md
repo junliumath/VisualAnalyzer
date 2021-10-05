@@ -13,6 +13,9 @@ The images to be analyzed are assumed to:
 6) Customizing the highlighting color and line-width is available by clicking setting.
 7) the file name of the saved cropped image is with bottom-left and up-right coordinates.
 
+# Usage
+switch to the fold VisualAnalyzer, open terminal, input python main.py or python3 main.py
+
 # Further exploration:
 If you are latex user and need to display the zoom-in part in the corresponding image, we strongly recommend you to use ZoomInPortion tookkit. It is also available in github.
 
