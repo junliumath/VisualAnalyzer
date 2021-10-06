@@ -19,6 +19,6 @@ The images to be analyzed are assumed to:
 switch to the fold VisualAnalyzer, open terminal, input python main.py or python3 main.py, then press Enter
 
 # Further exploration:
-If you are latex user and need to display the zoom-in part in the corresponding image, we strongly recommend you to use ZoomInPortion tookkit. It is also available in github.
+If you are latex user and need to display the zoom-in part in the corresponding image, we strongly recommend you to use ZoomInPortion tookkit. It is also available in github.  https://github.com/junliumath/ZoomInPortion
 
 If you have any trouble using this program, please contact us via quanjx046@nenu.edu.cn or liuj292@nenu.edu.cn.
